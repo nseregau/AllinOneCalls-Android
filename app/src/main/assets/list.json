@@ -1,0 +1,4898 @@
+[
+  {
+    "name" : "Alligator & Croc",
+    "prefix" : "AlligatorCroc",
+    "subcategories" : [
+      {
+        "image" : "AlligatorCroc_img1",
+        "items" : [
+          {
+            "duration" : "0:17",
+            "file" : "AlligatorCroc_alligatorbabycalling.aac",
+            "name" : "Baby Calling"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "AlligatorCroc_alligatorbreath1.aac",
+            "name" : "Breath 1"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "AlligatorCroc_alligatorbreath2.aac",
+            "name" : "Breath 2"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "AlligatorCroc_alligatorgrowlhissing.aac",
+            "name" : "Growl & Hissing"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "AlligatorCroc_alligatorgrowl1.aac",
+            "name" : "Growl 1"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "AlligatorCroc_alligatorgrowl2.aac",
+            "name" : "Growl 2"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "AlligatorCroc_alligatorgrowl3.aac",
+            "name" : "Growl 3"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "AlligatorCroc_alligatorgrowl4.aac",
+            "name" : "Growl 4"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "AlligatorCroc_alligatorgrowl5.aac",
+            "name" : "Growl 5"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "AlligatorCroc_alligatorhiss1.aac",
+            "name" : "Hiss 1"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "AlligatorCroc_alligatorhiss2.aac",
+            "name" : "Hiss 2"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "AlligatorCroc_alligatorhiss3.aac",
+            "name" : "Hiss 3"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "AlligatorCroc_alligatorhiss4.aac",
+            "name" : "Hiss 4"
+          },
+          {
+            "duration" : "0:35",
+            "file" : "AlligatorCroc_alligatorhiss5.aac",
+            "name" : "Hiss 5"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "AlligatorCroc_alligatorhiss6.aac",
+            "name" : "Hiss 6"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "AlligatorCroc_alligatorhiss7.aac",
+            "name" : "Hiss 7"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "AlligatorCroc_alligatorhiss8.aac",
+            "name" : "Hiss 8"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "AlligatorCroc_alligatorhissroargrowl.aac",
+            "name" : "Hiss, Roar, Growl"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "AlligatorCroc_alligatorlonggrowl.aac",
+            "name" : "Long Growl"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "AlligatorCroc_alligatortwoadultgrowling.aac",
+            "name" : "Two Adult Growling"
+          },
+          {
+            "duration" : "0:51",
+            "file" : "AlligatorCroc_alligatoryoungcall1.aac",
+            "name" : "Young Call 1"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "AlligatorCroc_alligatoryoungcall2.aac",
+            "name" : "Young Call 2"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "AlligatorCroc_alligatoryoungcall3.aac",
+            "name" : "Young Call 3"
+          }
+        ],
+        "title" : "Alligator"
+      },
+      {
+        "image" : "AlligatorCroc_img2",
+        "items" : [
+          {
+            "duration" : "0:01",
+            "file" : "AlligatorCroc_crocodilehatchlingcall1.aac",
+            "name" : "Hatchling Call 1"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "AlligatorCroc_crocodilehatchlingcall2.aac",
+            "name" : "Hatchling Call 2"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "AlligatorCroc_crocodilehatchlingcall3.aac",
+            "name" : "Hatchling Call 3"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "AlligatorCroc_crocodilehissgrunt.aac",
+            "name" : "Hiss & Grunt"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "AlligatorCroc_crocodilehiss1.aac",
+            "name" : "Hiss 1"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "AlligatorCroc_crocodilehiss2.aac",
+            "name" : "Hiss 2"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "AlligatorCroc_crocodilehiss3.aac",
+            "name" : "Hiss 3"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "AlligatorCroc_crocodilehiss4.aac",
+            "name" : "Hiss 4"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "AlligatorCroc_crocodilepant.aac",
+            "name" : "Pant"
+          }
+        ],
+        "title" : "Crocodile"
+      }
+    ]
+  },
+  {
+    "name" : "Badger",
+    "prefix" : "Badger",
+    "subcategories" : [
+      {
+        "image" : "Badger_img1",
+        "items" : [
+          {
+            "duration" : "0:48",
+            "file" : "Badger_call.aac",
+            "name" : "Call"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Badger_chatter.aac",
+            "name" : "Chatter"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Badger_growl.aac",
+            "name" : "Growl"
+          },
+          {
+            "duration" : "1:21",
+            "file" : "Badger_hissandgrowl1.aac",
+            "name" : "Hiss and Growl 1"
+          },
+          {
+            "duration" : "1:37",
+            "file" : "Badger_hissandgrowl2.aac",
+            "name" : "Hiss and Growl 2"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "Badger_hiss.aac",
+            "name" : "Hiss"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Badger_scream1.aac",
+            "name" : "Scream 1"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Badger_scream2.aac",
+            "name" : "Scream 2"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Badger_scream.aac",
+            "name" : "Scream"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Badger_sizzle.aac",
+            "name" : "Sizzle"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "Badger_vocalstrike1.aac",
+            "name" : "Vocal Strike 1"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Badger_vocalstrike2.aac",
+            "name" : "Vocal Strike 2"
+          },
+          {
+            "duration" : "0:23",
+            "file" : "Badger_whistle.aac",
+            "name" : "Whistle"
+          }
+        ],
+        "title" : "Badger"
+      }
+    ]
+  },
+  {
+    "name" : "Bear",
+    "prefix" : "Bear",
+    "subcategories" : [
+      {
+        "image" : "Bear_img1",
+        "items" : [
+          {
+            "duration" : "0:09",
+            "file" : "Bear_blackbearchewlick.aac",
+            "name" : "Chew Lick"
+          },
+          {
+            "duration" : "0:38",
+            "file" : "Bear_blackbearcubdistress1.aac",
+            "name" : "Cub Distress 1"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Bear_blackbearcubdistress2.aac",
+            "name" : "Cub Distress 2"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Bear_blackbearlick1.aac",
+            "name" : "Lick 1"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "Bear_blackbearlick2.aac",
+            "name" : "Lick 2"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Bear_blackbearroar1.aac",
+            "name" : "Roar 1"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Bear_blackbearroar2.aac",
+            "name" : "Roar 2"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Bear_blackbearroar3.aac",
+            "name" : "Roar 3"
+          },
+          {
+            "duration" : "0:26",
+            "file" : "Bear_blackbearroargrowl1.aac",
+            "name" : "Roar Growl 1"
+          },
+          {
+            "duration" : "0:37",
+            "file" : "Bear_blackbearroargrowl2.aac",
+            "name" : "Roar Growl 2"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Bear_blackbearroargrowl3.aac",
+            "name" : "Roar Growl 3"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Bear_blackbearroarsnarl1.aac",
+            "name" : "Roar Snarl 1"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Bear_blackbearroarsnarl2.aac",
+            "name" : "Roar Snarl 2"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Bear_blackbearroarsnarl3.aac",
+            "name" : "Roar Snarl 3"
+          }
+        ],
+        "title" : "Black Bear"
+      },
+      {
+        "image" : "Bear_img2",
+        "items" : [
+          {
+            "duration" : "0:02",
+            "file" : "Bear_grizzlybearbreath.aac",
+            "name" : "Breath"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Bear_grizzlybeargrowl1.aac",
+            "name" : "Growl 1"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Bear_grizzlybeargrowl2.aac",
+            "name" : "Growl 2"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Bear_grizzlybearroar1.aac",
+            "name" : "Roar 1"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Bear_grizzlybearroar2.aac",
+            "name" : "Roar 2"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Bear_grizzlybearroar3.aac",
+            "name" : "Roar 3"
+          }
+        ],
+        "title" : "Grizzly Bear"
+      },
+      {
+        "image" : "Bear_img3",
+        "items" : [
+          {
+            "duration" : "0:05",
+            "file" : "Bear_bearbreathfast.aac",
+            "name" : "Breath Fast"
+          },
+          {
+            "duration" : "1:02",
+            "file" : "Bear_beargroangrowlroar.aac",
+            "name" : "Groan Growl Roar"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Bear_beargrowl1.aac",
+            "name" : "Growl 1"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Bear_beargrowl2.aac",
+            "name" : "Growl 2"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Bear_beargrowlgrizzly.aac",
+            "name" : "Growl Grizzly"
+          },
+          {
+            "duration" : "1:15",
+            "file" : "Bear_bearmoangroangrowl.aac",
+            "name" : "Moan Groan Growl"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Bear_bearmoangrowl.aac",
+            "name" : "Moan Growl"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Bear_bearpantfast.aac",
+            "name" : "Pant Fast"
+          },
+          {
+            "duration" : "0:19",
+            "file" : "Bear_bearpantslow.aac",
+            "name" : "Pant Slow"
+          },
+          {
+            "duration" : "0:28",
+            "file" : "Bear_bearsnarlgrowl.aac",
+            "name" : "Snarl Growl"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Bear_bearsnoreexhale.aac",
+            "name" : "Snore Exhale"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Bear_bearthroatygrowl.aac",
+            "name" : "Throaty Growl"
+          }
+        ],
+        "title" : "Unspecified Bear"
+      }
+    ]
+  },
+  {
+    "name" : "Beaver",
+    "prefix" : "Beaver",
+    "subcategories" : [
+      {
+        "image" : "Beaver_img1",
+        "items" : [
+          {
+            "duration" : "0:07",
+            "file" : "Beaver_call1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "Beaver_call2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "Beaver_call3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "Beaver_call4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:32",
+            "file" : "Beaver_chewstree.aac",
+            "name" : "Chews Tree"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Beaver_grunt1.aac",
+            "name" : "Grunt 1"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Beaver_grunt2.aac",
+            "name" : "Grunt 2"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Beaver_grunt3.aac",
+            "name" : "Grunt 3"
+          }
+        ],
+        "title" : "Beaver"
+      }
+    ]
+  },
+  {
+    "name" : "Bobcat",
+    "prefix" : "Bobcat",
+    "subcategories" : [
+      {
+        "image" : "Bobcat_img1",
+        "items" : [
+          {
+            "duration" : "0:51",
+            "file" : "Bobcat_distress.aac",
+            "name" : "Distress"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Bobcat_growl1.aac",
+            "name" : "Growl 1"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Bobcat_growl2.aac",
+            "name" : "Growl 2"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Bobcat_growl3.aac",
+            "name" : "Growl 3"
+          },
+          {
+            "duration" : "1:15",
+            "file" : "Bobcat_growlgrumble1.aac",
+            "name" : "Growl Grumble 1"
+          },
+          {
+            "duration" : "0:46",
+            "file" : "Bobcat_growlgrumble2.aac",
+            "name" : "Growl Grumble 2"
+          },
+          {
+            "duration" : "1:41",
+            "file" : "Bobcat_growlsnarlchuff.aac",
+            "name" : "Growl Snarl Chuff"
+          },
+          {
+            "duration" : "0:52",
+            "file" : "Bobcat_inheat.aac",
+            "name" : "In Heat"
+          },
+          {
+            "duration" : "0:45",
+            "file" : "Bobcat_purring.aac",
+            "name" : "Purring"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Bobcat_snarl1.aac",
+            "name" : "Snarl 1"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Bobcat_snarl2.aac",
+            "name" : "Snarl 2"
+          }
+        ],
+        "title" : "Bobcat"
+      }
+    ]
+  },
+  {
+    "name" : "Cougar",
+    "prefix" : "Cougar",
+    "subcategories" : [
+      {
+        "image" : "Cougar_img1",
+        "items" : [
+          {
+            "duration" : "0:10",
+            "file" : "Cougar_cubspurrwhine.aac",
+            "name" : "Cubs Purr Whine"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Cougar_growl1.aac",
+            "name" : "Growl 1"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Cougar_growl2.aac",
+            "name" : "Growl 2"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Cougar_growl3.aac",
+            "name" : "Growl 3"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Cougar_growl4.aac",
+            "name" : "Growl 4"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Cougar_growl5.aac",
+            "name" : "Growl 5"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Cougar_growl6.aac",
+            "name" : "Growl 6"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Cougar_growl7.aac",
+            "name" : "Growl 7"
+          },
+          {
+            "duration" : "0:42",
+            "file" : "Cougar_growl8.aac",
+            "name" : "Growl 8"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Cougar_growl9.aac",
+            "name" : "Growl 9"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Cougar_growl10.aac",
+            "name" : "Growl 10"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Cougar_hiss1.aac",
+            "name" : "Hiss 1"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Cougar_hiss2.aac",
+            "name" : "Hiss 2"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Cougar_hiss3.aac",
+            "name" : "Hiss 3"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Cougar_hissgrowl.aac",
+            "name" : "Hiss Growl"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "Cougar_inheat1.aac",
+            "name" : "In Heat 1"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Cougar_inheat2.aac",
+            "name" : "In Heat 2"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Cougar_inheat3.aac",
+            "name" : "In Heat 3"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Cougar_inheat4.aac",
+            "name" : "In Heat 4"
+          },
+          {
+            "duration" : "0:24",
+            "file" : "Cougar_purr.aac",
+            "name" : "Purr"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Cougar_roar.aac",
+            "name" : "Roar"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Cougar_screamgrowl.aac",
+            "name" : "Scream Growl"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Cougar_snarlgrowl1.aac",
+            "name" : "Snarl Growl 1"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Cougar_snarlgrowl2.aac",
+            "name" : "Snarl Growl 2"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Cougar_snarlgrowl3.aac",
+            "name" : "Snarl Growl 3"
+          },
+          {
+            "duration" : "0:37",
+            "file" : "Cougar_snarlgrowl4.aac",
+            "name" : "Snarl Growl 4"
+          },
+          {
+            "duration" : "0:37",
+            "file" : "Cougar_snarlgrowl5.aac",
+            "name" : "Snarl Growl 5"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Cougar_snarlgrowl6.aac",
+            "name" : "Snarl Growl 6"
+          },
+          {
+            "duration" : "2:05",
+            "file" : "Cougar_snarlroar.aac",
+            "name" : "Snarl Roar"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Cougar_squeak1.aac",
+            "name" : "Squeak 1"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Cougar_squeak2.aac",
+            "name" : "Squeak 2"
+          },
+          {
+            "duration" : "0:45",
+            "file" : "Cougar_squeak3.aac",
+            "name" : "Squeak 3"
+          },
+          {
+            "duration" : "0:28",
+            "file" : "Cougar_squeak4.aac",
+            "name" : "Squeak 4"
+          }
+        ],
+        "title" : "Cougar"
+      }
+    ]
+  },
+  {
+    "name" : "Coyote",
+    "prefix" : "Coyote",
+    "subcategories" : [
+      {
+        "image" : "Coyote_img1",
+        "items" : [
+          {
+            "duration" : "1:22",
+            "file" : "Coyote_alerts.aac",
+            "name" : "Alerts"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Coyote_bark1.aac",
+            "name" : "Bark 1"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Coyote_bark2.aac",
+            "name" : "Bark 2"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Coyote_bark3.aac",
+            "name" : "Bark 3"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Coyote_barkyelp.aac",
+            "name" : "Bark & Yelp"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Coyote_distress1.aac",
+            "name" : "Distress 1"
+          },
+          {
+            "duration" : "0:26",
+            "file" : "Coyote_distress2.aac",
+            "name" : "Distress 2"
+          },
+          {
+            "duration" : "0:57",
+            "file" : "Coyote_greeting.aac",
+            "name" : "Greeting"
+          },
+          {
+            "duration" : "1:05",
+            "file" : "Coyote_group1.aac",
+            "name" : "Group 1"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Coyote_group2.aac",
+            "name" : "Group 2"
+          },
+          {
+            "duration" : "0:28",
+            "file" : "Coyote_group3.aac",
+            "name" : "Group 3"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Coyote_group4.aac",
+            "name" : "Group 4"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Coyote_group5.aac",
+            "name" : "Group 5"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Coyote_group6.aac",
+            "name" : "Group 6"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Coyote_howl1.aac",
+            "name" : "Howl 1"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Coyote_howl2.aac",
+            "name" : "Howl 2"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Coyote_howl3.aac",
+            "name" : "Howl 3"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Coyote_howl4.aac",
+            "name" : "Howl 4"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Coyote_howl5.aac",
+            "name" : "Howl 5"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Coyote_howl6.aac",
+            "name" : "Howl 6"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Coyote_howl7.aac",
+            "name" : "Howl 7"
+          },
+          {
+            "duration" : "0:24",
+            "file" : "Coyote_howlbark1.aac",
+            "name" : "Howl & Bark 1"
+          },
+          {
+            "duration" : "0:59",
+            "file" : "Coyote_howlbark2.aac",
+            "name" : "Howl & Bark 2"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Coyote_howlbark3.aac",
+            "name" : "Howl & Bark 3"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Coyote_howlbark4.aac",
+            "name" : "Howl & Bark 4"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Coyote_pupdistress1.aac",
+            "name" : "Pup Distress 1"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Coyote_pupdistress2.aac",
+            "name" : "Pup Distress 2"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Coyote_pupdistress3.aac",
+            "name" : "Pup Distress 3"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Coyote_whimper1.aac",
+            "name" : "Whimper 1"
+          },
+          {
+            "duration" : "0:19",
+            "file" : "Coyote_whimper2.aac",
+            "name" : "Whimper 2"
+          },
+          {
+            "duration" : "0:40",
+            "file" : "Coyote_whimper3.aac",
+            "name" : "Whimper 3"
+          },
+          {
+            "duration" : "2:07",
+            "file" : "Coyote_whimperyelp.aac",
+            "name" : "Whimper & Yelp"
+          }
+        ],
+        "title" : "Coyote"
+      }
+    ]
+  },
+  {
+    "name" : "Crane",
+    "prefix" : "Crane",
+    "subcategories" : [
+      {
+        "image" : "Crane_img1",
+        "items" : [
+          {
+            "duration" : "0:16",
+            "file" : "Crane_sandhillcrane1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Crane_sandhillcrane2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Crane_sandhillcrane3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Crane_sandhillcrane4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Crane_sandhillcrane5.aac",
+            "name" : "Call 5"
+          },
+          {
+            "duration" : "0:33",
+            "file" : "Crane_sandhillcrane6.aac",
+            "name" : "Call 6"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "Crane_sandhillcrane7.aac",
+            "name" : "Call 7"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Crane_sandhillcrane8.aac",
+            "name" : "Call 8"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Crane_sandhillcrane9.aac",
+            "name" : "Call 9"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Crane_sandhillcrane10.aac",
+            "name" : "Call 10"
+          }
+        ],
+        "title" : "Sandhill Crane"
+      },
+      {
+        "image" : "Crane_img2",
+        "items" : [
+          {
+            "duration" : "0:01",
+            "file" : "Crane_crane1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:24",
+            "file" : "Crane_crane2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Crane_crane3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Crane_crane4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Crane_crane5.aac",
+            "name" : "Call 5"
+          },
+          {
+            "duration" : "0:32",
+            "file" : "Crane_crane6.aac",
+            "name" : "Call 6"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Crane_crane7.aac",
+            "name" : "Call 7"
+          }
+        ],
+        "title" : "Unspecified Crane"
+      }
+    ]
+  },
+  {
+    "name" : "Crow",
+    "prefix" : "Crow",
+    "subcategories" : [
+      {
+        "image" : "Crow_img1",
+        "items" : [
+          {
+            "duration" : "1:02",
+            "file" : "Crow_buster.aac",
+            "name" : "Buster"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Crow_caw1.aac",
+            "name" : "Caw 1"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Crow_caw2.aac",
+            "name" : "Caw 2"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Crow_caw3.aac",
+            "name" : "Caw 3"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Crow_caw4.aac",
+            "name" : "Caw 4"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "Crow_caw5.aac",
+            "name" : "Caw 5"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "Crow_caw6.aac",
+            "name" : "Caw 6"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Crow_caw7.aac",
+            "name" : "Caw 7"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Crow_cawdistress.aac",
+            "name" : "Caw Distress"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Crow_cawgroancalm.aac",
+            "name" : "Caw Groan Calm"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Crow_cawstrange1.aac",
+            "name" : "Caw Strange 1"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Crow_cawstrange2.aac",
+            "name" : "Caw Strange 2"
+          },
+          {
+            "duration" : "0:50",
+            "file" : "Crow_distress1.aac",
+            "name" : "Distress 1"
+          },
+          {
+            "duration" : "1:08",
+            "file" : "Crow_distress2.aac",
+            "name" : "Distress 2"
+          },
+          {
+            "duration" : "0:33",
+            "file" : "Crow_distress3.aac",
+            "name" : "Distress 3"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Crow_fightdistress1.aac",
+            "name" : "Fight Distress 1"
+          },
+          {
+            "duration" : "1:17",
+            "file" : "Crow_fightdistress2.aac",
+            "name" : "Fight Distress 2"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Crow_frenzy1.aac",
+            "name" : "Frenzy 1"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Crow_frenzy2.aac",
+            "name" : "Frenzy 2"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Crow_groandistress.aac",
+            "name" : "Groan Distress"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Crow_groanmultiple.aac",
+            "name" : "Groan Multiple"
+          },
+          {
+            "duration" : "0:53",
+            "file" : "Crow_helpcall.aac",
+            "name" : "Help Call"
+          },
+          {
+            "duration" : "0:36",
+            "file" : "Crow_raven.aac",
+            "name" : "Raven"
+          },
+          {
+            "duration" : "0:26",
+            "file" : "Crow_crowdove.aac",
+            "name" : "With Dove"
+          },
+          {
+            "duration" : "1:06",
+            "file" : "Crow_crowhawkdistress1.aac",
+            "name" : "With Hawk Distress 1"
+          },
+          {
+            "duration" : "1:04",
+            "file" : "Crow_crowhawkdistress2.aac",
+            "name" : "With Hawk Distress 2"
+          },
+          {
+            "duration" : "0:26",
+            "file" : "Crow_crowhawkfight1.aac",
+            "name" : "With Hawk Fight 1"
+          },
+          {
+            "duration" : "1:09",
+            "file" : "Crow_crowhawkfight2.aac",
+            "name" : "With Hawk Fight 2"
+          }
+        ],
+        "title" : "Crow"
+      }
+    ]
+  },
+  {
+    "name" : "Deer",
+    "prefix" : "Deer",
+    "subcategories" : [
+      {
+        "image" : "Deer_img1",
+        "items" : [
+          {
+            "duration" : "0:01",
+            "file" : "Deer_buckchallenge.aac",
+            "name" : "Buck Challenge"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Deer_buckdistress.aac",
+            "name" : "Buck Distress"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Deer_buckgrunt1.aac",
+            "name" : "Buck Grunt 1"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Deer_buckgrunt2.aac",
+            "name" : "Buck Grunt 2"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Deer_buckgrunt3.aac",
+            "name" : "Buck Grunt 3"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Deer_buckroar1.aac",
+            "name" : "Buck Roar 1"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Deer_buckroar2.aac",
+            "name" : "Buck Roar 2"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Deer_buckroar3.aac",
+            "name" : "Buck Roar 3"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Deer_buckroar4.aac",
+            "name" : "Buck Roar 4"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Deer_buckroar5.aac",
+            "name" : "Buck Roar 5"
+          },
+          {
+            "duration" : "0:22",
+            "file" : "Deer_bucksnort1.aac",
+            "name" : "Buck Snort 1"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Deer_bucksnort2.aac",
+            "name" : "Buck Snort 2"
+          },
+          {
+            "duration" : "0:37",
+            "file" : "Deer_bucksnortattack.aac",
+            "name" : "Buck Snort Attack"
+          },
+          {
+            "duration" : "0:29",
+            "file" : "Deer_buckteethclick.aac",
+            "name" : "Buck Teeth Click"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Deer_bucktendinggrunt1.aac",
+            "name" : "Buck Tending Grunt 1"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Deer_bucktendinggrunt2.aac",
+            "name" : "Buck Tending Grunt 2"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Deer_bucktendinggrunt3.aac",
+            "name" : "Buck Tending Grunt 3"
+          },
+          {
+            "duration" : "0:23",
+            "file" : "Deer_bucksfighting.aac",
+            "name" : "Bucks Fighting"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Deer_buckssparring.aac",
+            "name" : "Bucks Sparring"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Deer_doebleat.aac",
+            "name" : "Doe Bleat"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Deer_doeestrusbleat1.aac",
+            "name" : "Doe Estrus Bleat 1"
+          },
+          {
+            "duration" : "0:51",
+            "file" : "Deer_doeestrusbleat2.aac",
+            "name" : "Doe Estrus Bleat 2"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Deer_doeestrusbleat3.aac",
+            "name" : "Doe Estrus Bleat 3"
+          },
+          {
+            "duration" : "0:24",
+            "file" : "Deer_fawndistress1.aac",
+            "name" : "Fawn Distress 1"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Deer_fawndistress2.aac",
+            "name" : "Fawn Distress 2"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Deer_fawndistress3.aac",
+            "name" : "Fawn Distress 3"
+          },
+          {
+            "duration" : "0:32",
+            "file" : "Deer_fawndistress4.aac",
+            "name" : "Fawn Distress 4"
+          },
+          {
+            "duration" : "0:34",
+            "file" : "Deer_fawndistress5.aac",
+            "name" : "Fawn Distress 5"
+          },
+          {
+            "duration" : "0:41",
+            "file" : "Deer_fawndistress6.aac",
+            "name" : "Fawn Distress 6"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Deer_fawndistress7.aac",
+            "name" : "Fawn Distress 7"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Deer_herdmunch.aac",
+            "name" : "Herd Munch"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Deer_reddeerdistress.aac",
+            "name" : "Red Deer Distress"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Deer_reddeerroar1.aac",
+            "name" : "Red Deer Roar 1"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Deer_reddeerroar2.aac",
+            "name" : "Red Deer Roar 2"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Deer_reddeerroar3.aac",
+            "name" : "Red Deer Roar 3"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Deer_reddeerroar4.aac",
+            "name" : "Red Deer Roar 4"
+          }
+        ],
+        "title" : "Deer"
+      }
+    ]
+  },
+  {
+    "name" : "Dove",
+    "prefix" : "Dove",
+    "subcategories" : [
+      {
+        "image" : "Dove_img1",
+        "items" : [
+          {
+            "duration" : "0:02",
+            "file" : "Dove_collareddovecalls.aac",
+            "name" : "Call"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "Dove_collareddovesong1.aac",
+            "name" : "Song 1"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Dove_collareddovesong2.aac",
+            "name" : "Song 2"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Dove_collareddovesong3.aac",
+            "name" : "Song 3"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Dove_collareddovesong4.aac",
+            "name" : "Song 4"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Dove_collareddovesong5.aac",
+            "name" : "Song 5"
+          }
+        ],
+        "title" : "Collared Dove"
+      },
+      {
+        "image" : "Dove_img2",
+        "items" : [
+          {
+            "duration" : "0:04",
+            "file" : "Dove_mourningdovesong1.aac",
+            "name" : "Song 1"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Dove_mourningdovesong2.aac",
+            "name" : "Song 2"
+          }
+        ],
+        "title" : "Mourning Dove"
+      },
+      {
+        "image" : "Dove_img3",
+        "items" : [
+          {
+            "duration" : "0:08",
+            "file" : "Dove_whitewingeddovecalls.aac",
+            "name" : "Call"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Dove_whitewingeddovesong1.aac",
+            "name" : "Song 1"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Dove_whitewingeddovesong2.aac",
+            "name" : "Song 2"
+          }
+        ],
+        "title" : "White-Winged Dove"
+      },
+      {
+        "image" : "Dove_img4",
+        "items" : [
+          {
+            "duration" : "0:20",
+            "file" : "Dove_dovesparrow.aac",
+            "name" : "Dove & Sparrow"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Dove_dovecooing1.aac",
+            "name" : "Cooing 1"
+          },
+          {
+            "duration" : "1:40",
+            "file" : "Dove_dovecooing2.aac",
+            "name" : "Cooing 2"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Dove_dovecooing3.aac",
+            "name" : "Cooing 3"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Dove_dovecooing4.aac",
+            "name" : "Cooing 4"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Dove_dovecooing5.aac",
+            "name" : "Cooing 5"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Dove_dovecooing6.aac",
+            "name" : "Cooing 6"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Dove_dovecooing7.aac",
+            "name" : "Cooing 7"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Dove_dovecooing8.aac",
+            "name" : "Cooing 8"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Dove_dovecooing9.aac",
+            "name" : "Cooing 9"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Dove_dovecooingfluttering.aac",
+            "name" : "Cooing Fluttering"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Dove_dovetakingoff.aac",
+            "name" : "Taking Off"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Dove_dovewarbling.aac",
+            "name" : "Warbling"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Dove_rockdove.aac",
+            "name" : "Rock Dove"
+          }
+        ],
+        "title" : "Unspecified Dove"
+      }
+    ]
+  },
+  {
+    "name" : "Duck",
+    "prefix" : "Duck",
+    "subcategories" : [
+      {
+        "image" : "Duck_img1",
+        "items" : [
+          {
+            "duration" : "0:04",
+            "file" : "Duck_mallardbabychirp1.aac",
+            "name" : "Baby Chirp 1"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Duck_mallardbabychirp2.aac",
+            "name" : "Baby Chirp 2"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Duck_mallardcomebackcall1.aac",
+            "name" : "Comeback Call 1"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Duck_mallardcomebackcall2.aac",
+            "name" : "Comeback Call 2"
+          },
+          {
+            "duration" : "1:31",
+            "file" : "Duck_mallardcompetition.aac",
+            "name" : "Competition"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Duck_mallardfeedcall.aac",
+            "name" : "Feed Call"
+          },
+          {
+            "duration" : "0:57",
+            "file" : "Duck_mallardfieldduckcall.aac",
+            "name" : "Field Duck Call"
+          },
+          {
+            "duration" : "0:31",
+            "file" : "Duck_mallardflying.aac",
+            "name" : "Flying"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Duck_mallardgreetingcall1.aac",
+            "name" : "Greeting Call 1"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Duck_mallardgreetingcall2.aac",
+            "name" : "Greeting Call 2"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Duck_mallardgreetingcall3.aac",
+            "name" : "Greeting Call 3"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Duck_mallardgreetingcall4.aac",
+            "name" : "Greeting Call 4"
+          },
+          {
+            "duration" : "0:23",
+            "file" : "Duck_mallardgroupchatter1.aac",
+            "name" : "Group Chatter 1"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Duck_mallardgroupchatter2.aac",
+            "name" : "Group Chatter 2"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Duck_mallardgroupchatter3.aac",
+            "name" : "Group Chatter 3"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Duck_mallardhailcall.aac",
+            "name" : "Hail Call"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Duck_mallardlonesomehen.aac",
+            "name" : "Lonesome Hen"
+          },
+          {
+            "duration" : "0:51",
+            "file" : "Duck_mallardmoldeddoublereedcall.aac",
+            "name" : "Molded Double Reed Call"
+          },
+          {
+            "duration" : "0:55",
+            "file" : "Duck_mallardmoldedsinglereedcall.aac",
+            "name" : "Molded Single Reed Call"
+          },
+          {
+            "duration" : "0:49",
+            "file" : "Duck_mallardtimbercall.aac",
+            "name" : "Timber Call"
+          }
+        ],
+        "title" : "Mallard"
+      },
+      {
+        "image" : "Duck_img2",
+        "items" : [
+          {
+            "duration" : "0:10",
+            "file" : "Duck_americancootcall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Duck_americancootcall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Duck_americancootcall3.aac",
+            "name" : "Call 3"
+          }
+        ],
+        "title" : "American Coot"
+      },
+      {
+        "image" : "Duck_img3",
+        "items" : [
+          {
+            "duration" : "0:20",
+            "file" : "Duck_americanwigeonfemalecall.aac",
+            "name" : "Female Сall"
+          },
+          {
+            "duration" : "0:23",
+            "file" : "Duck_americanwigeonmalecall1.aac",
+            "name" : "Male Сall 1"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Duck_americanwigeonmalecall2.aac",
+            "name" : "Male Сall 2"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Duck_americanwigeonmalecall3.aac",
+            "name" : "Male Сall 3"
+          }
+        ],
+        "title" : "American Wigeon"
+      },
+      {
+        "image" : "Duck_img4",
+        "items" : [
+          {
+            "duration" : "0:17",
+            "file" : "Duck_blackbelliedwhistlingduckcallautumnalis1.aac",
+            "name" : "Call (autumnalis) 1"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Duck_blackbelliedwhistlingduckcallautumnalis2.aac",
+            "name" : "Call (autumnalis) 2"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Duck_blackbelliedwhistlingduckcallfulgens1.aac",
+            "name" : "Call (fulgens) 1"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Duck_blackbelliedwhistlingduckcallfulgens2.aac",
+            "name" : "Call (fulgens) 2"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Duck_blackbelliedwhistlingduckcallfulgens3.aac",
+            "name" : "Call (fulgens) 3"
+          }
+        ],
+        "title" : "Black-bellied Whistling Duck"
+      },
+      {
+        "image" : "Duck_img5",
+        "items" : [
+          {
+            "duration" : "0:11",
+            "file" : "Duck_bluewingedtealcall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:23",
+            "file" : "Duck_bluewingedtealcall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Duck_bluewingedtealcall3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:23",
+            "file" : "Duck_bluewingedtealcall4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Duck_bluewingedtealcall5.aac",
+            "name" : "Call 5"
+          }
+        ],
+        "title" : "Blue-winged Teal"
+      },
+      {
+        "image" : "Duck_img6",
+        "items" : [
+          {
+            "duration" : "0:14",
+            "file" : "Duck_buffleheadcall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "Duck_buffleheadcall2.aac",
+            "name" : "Call 2"
+          }
+        ],
+        "title" : "Bufflehead"
+      },
+      {
+        "image" : "Duck_img7",
+        "items" : [
+          {
+            "duration" : "0:13",
+            "file" : "Duck_canvasbackdisplay.aac",
+            "name" : "Display"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Duck_canvasbackfemalecall.aac",
+            "name" : "Female Call"
+          }
+        ],
+        "title" : "Canvasback"
+      },
+      {
+        "image" : "Duck_img8",
+        "items" : [
+          {
+            "duration" : "0:13",
+            "file" : "Duck_commongoldeneyecall.aac",
+            "name" : "Call"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Duck_commongoldeneyedisplay.aac",
+            "name" : "Display"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Duck_commongoldeneyefemalecall1.aac",
+            "name" : "Female Call 1"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Duck_commongoldeneyefemalecall2.aac",
+            "name" : "Female Call 2"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Duck_commongoldeneyemalecall.aac",
+            "name" : "Male Call"
+          }
+        ],
+        "title" : "Common Goldeneye"
+      },
+      {
+        "image" : "Duck_img9",
+        "items" : [
+          {
+            "duration" : "0:05",
+            "file" : "Duck_gadwallfemalecall1.aac",
+            "name" : "Female Call 1"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Duck_gadwallfemalecall2.aac",
+            "name" : "Female Call 2"
+          },
+          {
+            "duration" : "0:31",
+            "file" : "Duck_gadwallmalecall.aac",
+            "name" : "Male Call"
+          }
+        ],
+        "title" : "Gadwall"
+      },
+      {
+        "image" : "Duck_img10",
+        "items" : [
+          {
+            "duration" : "0:27",
+            "file" : "Duck_greenwingedtealcallamerican1.aac",
+            "name" : "Call (American) 1"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Duck_greenwingedtealcallamerican2.aac",
+            "name" : "Call (American) 2"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Duck_greenwingedtealcallamerican3.aac",
+            "name" : "Call (American) 3"
+          },
+          {
+            "duration" : "0:23",
+            "file" : "Duck_greenwingedtealcallamerican4.aac",
+            "name" : "Call (American) 4"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Duck_greenwingedtealcallamerican5.aac",
+            "name" : "Call (American) 5"
+          },
+          {
+            "duration" : "0:22",
+            "file" : "Duck_greenwingedtealcallamerican6.aac",
+            "name" : "Call (American) 6"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Duck_greenwingedtealcalleurasian1.aac",
+            "name" : "Call (Eurasian) 1"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Duck_greenwingedtealcalleurasian2.aac",
+            "name" : "Call (Eurasian) 2"
+          }
+        ],
+        "title" : "Green-winged Teal"
+      },
+      {
+        "image" : "Duck_img11",
+        "items" : [
+          {
+            "duration" : "0:05",
+            "file" : "Duck_hoodedmergansercall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "Duck_hoodedmergansercall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Duck_hoodedmerganserdisplay.aac",
+            "name" : "Display"
+          }
+        ],
+        "title" : "Hooded Merganser"
+      },
+      {
+        "image" : "Duck_img12",
+        "items" : [
+          {
+            "duration" : "0:17",
+            "file" : "Duck_kingeidercall.aac",
+            "name" : "Call"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Duck_kingeiderfemalecall1.aac",
+            "name" : "Female Call 1"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Duck_kingeiderfemalecall2.aac",
+            "name" : "Female Call 2"
+          }
+        ],
+        "title" : "King Eider"
+      },
+      {
+        "image" : "Duck_img13",
+        "items" : [
+          {
+            "duration" : "0:20",
+            "file" : "Duck_lesserscaupfemalecall1.aac",
+            "name" : "Female Call 1"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Duck_lesserscaupfemalecall2.aac",
+            "name" : "Female Call 2"
+          },
+          {
+            "duration" : "0:19",
+            "file" : "Duck_lesserscaupfemalecall3.aac",
+            "name" : "Female Call 3"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Duck_lesserscaupfemalecall4.aac",
+            "name" : "Female Call 4"
+          }
+        ],
+        "title" : "Lesser Scaup"
+      },
+      {
+        "image" : "Duck_img14",
+        "items" : [
+          {
+            "duration" : "0:19",
+            "file" : "Duck_mottledduckfemalecallflorida1.aac",
+            "name" : "Female Call (Florida) 1"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Duck_mottledduckfemalecallflorida2.aac",
+            "name" : "Female Call (Florida) 2"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Duck_mottledduckfemalecallgulfcoast.aac",
+            "name" : "Female Call (Gulf Coast)"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Duck_mottledduckmalecallflorida.aac",
+            "name" : "Male Call (Florida)"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Duck_mottledduckmalecallgulfcoast.aac",
+            "name" : "Male Call (Gulf Coast)"
+          }
+        ],
+        "title" : "Mottled Duck"
+      },
+      {
+        "image" : "Duck_img15",
+        "items" : [
+          {
+            "duration" : "0:12",
+            "file" : "Duck_northernpintailcall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Duck_northernpintailcall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:25",
+            "file" : "Duck_northernpintailflockcall.aac",
+            "name" : "Flock Call"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "Duck_northernpintailwhistle.aac",
+            "name" : "Whistle"
+          }
+        ],
+        "title" : "Northern Pintail"
+      },
+      {
+        "image" : "Duck_img16",
+        "items" : [
+          {
+            "duration" : "0:13",
+            "file" : "Duck_redheadcall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "Duck_redheadcall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Duck_redheadcall3.aac",
+            "name" : "Call 3"
+          }
+        ],
+        "title" : "Redhead"
+      },
+      {
+        "image" : "Duck_img17",
+        "items" : [
+          {
+            "duration" : "0:14",
+            "file" : "Duck_ruddyduckcall.aac",
+            "name" : "Call"
+          },
+          {
+            "duration" : "0:28",
+            "file" : "Duck_ruddyduckdisplay.aac",
+            "name" : "Display"
+          }
+        ],
+        "title" : "Ruddy Duck"
+      },
+      {
+        "image" : "Duck_img18",
+        "items" : [
+          {
+            "duration" : "0:16",
+            "file" : "Duck_woodduckcall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:28",
+            "file" : "Duck_woodduckcall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Duck_woodduckcall3.aac",
+            "name" : "Call 3"
+          }
+        ],
+        "title" : "Wood Duck"
+      }
+    ]
+  },
+  {
+    "name" : "Elk",
+    "prefix" : "Elk",
+    "subcategories" : [
+      {
+        "image" : "Elk_img1",
+        "items" : [
+          {
+            "duration" : "0:45",
+            "file" : "Elk_brayingshriek.aac",
+            "name" : "Braying Shriek"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Elk_buglegrunt.aac",
+            "name" : "Bugle Grunt"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "Elk_bugle.aac",
+            "name" : "Bugle"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Elk_chirp.aac",
+            "name" : "Chirp"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Elk_guttural.aac",
+            "name" : "Guttural"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Elk_scream1.aac",
+            "name" : "Scream 1"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Elk_scream2.aac",
+            "name" : "Scream 2"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Elk_scream3.aac",
+            "name" : "Scream 3"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Elk_screamhonk.aac",
+            "name" : "Scream Honk"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "Elk_screamsqueal.aac",
+            "name" : "Scream Squeal"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Elk_screamthroatyroar.aac",
+            "name" : "Scream Throaty Roar"
+          },
+          {
+            "duration" : "0:26",
+            "file" : "Elk_squeal1.aac",
+            "name" : "Squeal 1"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Elk_squeal2.aac",
+            "name" : "Squeal 2"
+          },
+          {
+            "duration" : "0:35",
+            "file" : "Elk_updownlong.aac",
+            "name" : "Up Down Long"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Elk_updownshort.aac",
+            "name" : "Up Down Short"
+          },
+          {
+            "duration" : "0:36",
+            "file" : "Elk_updowntrilllong.aac",
+            "name" : "Up Down Trill Long"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Elk_updowntrillshort.aac",
+            "name" : "Up Down Trill Short"
+          }
+        ],
+        "title" : "Elk"
+      }
+    ]
+  },
+  {
+    "name" : "Fox",
+    "prefix" : "Fox",
+    "subcategories" : [
+      {
+        "image" : "Fox_img1",
+        "items" : [
+          {
+            "duration" : "0:05",
+            "file" : "Fox_redfoxbabysqueak.aac",
+            "name" : "Baby Squeak"
+          },
+          {
+            "duration" : "0:31",
+            "file" : "Fox_redfoxcry1.aac",
+            "name" : "Cry 1"
+          },
+          {
+            "duration" : "0:55",
+            "file" : "Fox_redfoxcry2.aac",
+            "name" : "Cry 2"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Fox_redfoxcry3.aac",
+            "name" : "Cry 3"
+          },
+          {
+            "duration" : "2:53",
+            "file" : "Fox_redfoxcry4.aac",
+            "name" : "Cry 4"
+          },
+          {
+            "duration" : "0:56",
+            "file" : "Fox_redfoxcrymoan.aac",
+            "name" : "Cry Moan"
+          },
+          {
+            "duration" : "1:11",
+            "file" : "Fox_redfoxcrywhimper.aac",
+            "name" : "Cry Whimper"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Fox_redfoxdistress.aac",
+            "name" : "Distress"
+          },
+          {
+            "duration" : "1:00",
+            "file" : "Fox_redfoxsnorcrysniff.aac",
+            "name" : "Snor Cry Sniff"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Fox_redfoxwhimpergroan.aac",
+            "name" : "Whimper Groan"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Fox_redfoxwhine.aac",
+            "name" : "Whine"
+          },
+          {
+            "duration" : "0:19",
+            "file" : "Fox_redfoxwhinecrysniffle.aac",
+            "name" : "Whine Cry Sniffl"
+          }
+        ],
+        "title" : "Red Fox"
+      },
+      {
+        "image" : "Fox_img2",
+        "items" : [
+          {
+            "duration" : "0:36",
+            "file" : "Fox_silverfoxscream.aac",
+            "name" : "Scream"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Fox_silverfoxsquawk.aac",
+            "name" : "Squawk"
+          },
+          {
+            "duration" : "1:05",
+            "file" : "Fox_silverfoxsquawkwhine.aac",
+            "name" : "Squawk Whine"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Fox_silverfoxwhinecry1.aac",
+            "name" : "Whine Cry 1"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "Fox_silverfoxwhinecry2.aac",
+            "name" : "Whine Cry 2"
+          }
+        ],
+        "title" : "Silver Fox"
+      },
+      {
+        "image" : "Fox_img3",
+        "items" : [
+          {
+            "duration" : "5:33",
+            "file" : "Fox_grayfoxdistress.aac",
+            "name" : "Distress"
+          },
+          {
+            "duration" : "0:56",
+            "file" : "Fox_grayfoxcoyotepuppy.aac",
+            "name" : "With Coyote Puppy"
+          }
+        ],
+        "title" : "Gray Fox"
+      },
+      {
+        "image" : "Fox_img4",
+        "items" : [
+          {
+            "duration" : "0:13",
+            "file" : "Fox_foxbark.aac",
+            "name" : "Bark"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "Fox_foxcall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Fox_foxcall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Fox_foxchatter.aac",
+            "name" : "Chatter"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Fox_foxcry.aac",
+            "name" : "Cry"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Fox_foxfemaleheat.aac",
+            "name" : "Female Heat"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Fox_foxgreetingbark.aac",
+            "name" : "Greeting Bark"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "Fox_foxhowl.aac",
+            "name" : "Howl"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Fox_foxpupdistress.aac",
+            "name" : "Pup Distress"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Fox_foxpupsqueak.aac",
+            "name" : "Pup Squeak"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Fox_foxwhine1.aac",
+            "name" : "Whine 1"
+          },
+          {
+            "duration" : "0:26",
+            "file" : "Fox_foxwhine2.aac",
+            "name" : "Whine 2"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "Fox_foxbird.aac",
+            "name" : "With Bird"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Fox_woundedfoxcry.aac",
+            "name" : "Wounded Cry"
+          }
+        ],
+        "title" : "Unspecified Fox"
+      }
+    ]
+  },
+  {
+    "name" : "Goat",
+    "prefix" : "Goat",
+    "subcategories" : [
+      {
+        "image" : "Goat_img1",
+        "items" : [
+          {
+            "duration" : "0:05",
+            "file" : "Goat_bleat1.aac",
+            "name" : "Bleat 1"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Goat_bleat2.aac",
+            "name" : "Bleat 2"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Goat_bleat3.aac",
+            "name" : "Bleat 3"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Goat_bleat4.aac",
+            "name" : "Bleat 4"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Goat_bleat5.aac",
+            "name" : "Bleat 5"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Goat_bleat6.aac",
+            "name" : "Bleat 6"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Goat_bleat7.aac",
+            "name" : "Bleat 7"
+          },
+          {
+            "duration" : "0:34",
+            "file" : "Goat_bleat8.aac",
+            "name" : "Bleat 8"
+          },
+          {
+            "duration" : "0:40",
+            "file" : "Goat_bleat9.aac",
+            "name" : "Bleat 9"
+          },
+          {
+            "duration" : "0:31",
+            "file" : "Goat_bleat10.aac",
+            "name" : "Bleat 10"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "Goat_kidbleat1.aac",
+            "name" : "Kid Bleat 1"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Goat_kidbleat2.aac",
+            "name" : "Kid Bleat 2"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Goat_kidbleat3.aac",
+            "name" : "Kid Bleat 3"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Goat_kidbleat4.aac",
+            "name" : "Kid Bleat 4"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Goat_kiddistress1.aac",
+            "name" : "Kid Distress 1"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Goat_kiddistress2.aac",
+            "name" : "Kid Distress 2"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Goat_kidscream1.aac",
+            "name" : "Kid Scream 1"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Goat_kidscream2.aac",
+            "name" : "Kid Scream 2"
+          }
+        ],
+        "title" : "Goat"
+      }
+    ]
+  },
+  {
+    "name" : "Goose",
+    "prefix" : "Goose",
+    "subcategories" : [
+      {
+        "image" : "Goose_img1",
+        "items" : [
+          {
+            "duration" : "1:32",
+            "file" : "Goose_canadagoosecall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Goose_canadagoosecall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Goose_canadagoosecall3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:29",
+            "file" : "Goose_canadagoosecluck.aac",
+            "name" : "Cluck"
+          },
+          {
+            "duration" : "0:19",
+            "file" : "Goose_canadagoosecomeback1.aac",
+            "name" : "Comeback 1"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Goose_canadagoosecomeback2.aac",
+            "name" : "Comeback 2"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Goose_canadagooseflock1.aac",
+            "name" : "Flock 1"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Goose_canadagooseflock2.aac",
+            "name" : "Flock 2"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Goose_canadagoosegreeting1.aac",
+            "name" : "Greeting 1"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Goose_canadagoosegreeting2.aac",
+            "name" : "Greeting 2"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Goose_canadagoosegreeting3.aac",
+            "name" : "Greeting 3"
+          }
+        ],
+        "title" : "Canada Goose"
+      },
+      {
+        "image" : "Goose_img2",
+        "items" : [
+          {
+            "duration" : "0:11",
+            "file" : "Goose_snowgoosefeeding.aac",
+            "name" : "Feeding"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Goose_snowgooseflock1.aac",
+            "name" : "Flock 1"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Goose_snowgooseflock2.aac",
+            "name" : "Flock 2"
+          }
+        ],
+        "title" : "Snow Goose"
+      },
+      {
+        "image" : "Goose_img3",
+        "items" : [
+          {
+            "duration" : "0:20",
+            "file" : "Goose_specklebellygoosecall.aac",
+            "name" : "Call"
+          }
+        ],
+        "title" : "Specklebelly Goose"
+      },
+      {
+        "image" : "Goose_img4",
+        "items" : [
+          {
+            "duration" : "0:13",
+            "file" : "Goose_goosecackle1.aac",
+            "name" : "Cackle 1"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Goose_goosecackle2.aac",
+            "name" : "Cackle 2"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Goose_goosecackle3.aac",
+            "name" : "Cackle 3"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "Goose_goosecall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Goose_goosecall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:35",
+            "file" : "Goose_gooseflock.aac",
+            "name" : "Flock"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Goose_goosehonk1.aac",
+            "name" : "Honk 1"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Goose_goosehonk2.aac",
+            "name" : "Honk 2"
+          }
+        ],
+        "title" : "Unspecified Goose"
+      }
+    ]
+  },
+  {
+    "name" : "Groundhog",
+    "prefix" : "Groundhog",
+    "subcategories" : [
+      {
+        "image" : "Groundhog_img1",
+        "items" : [
+          {
+            "duration" : "0:02",
+            "file" : "Groundhog_alarm1.aac",
+            "name" : "Alarm 1"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Groundhog_alarm2.aac",
+            "name" : "Alarm 2"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Groundhog_scream1.aac",
+            "name" : "Scream 1"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Groundhog_scream2.aac",
+            "name" : "Scream 2"
+          },
+          {
+            "duration" : "1:02",
+            "file" : "Groundhog_screamwhistle.aac",
+            "name" : "Scream Whistle"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Groundhog_squeak.aac",
+            "name" : "Squeak"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Groundhog_whistle1.aac",
+            "name" : "Whistle 1"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Groundhog_whistle2.aac",
+            "name" : "Whistle 2"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Groundhog_whistle3.aac",
+            "name" : "Whistle 3"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Groundhog_whistle4.aac",
+            "name" : "Whistle 4"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Groundhog_whistlemating.aac",
+            "name" : "Whistle Mating"
+          }
+        ],
+        "title" : "Groundhog"
+      }
+    ]
+  },
+  {
+    "name" : "Grouse",
+    "prefix" : "Grouse",
+    "subcategories" : [
+      {
+        "image" : "Grouse_img1",
+        "items" : [
+          {
+            "duration" : "0:44",
+            "file" : "Grouse_blackgrouse.aac",
+            "name" : "Call"
+          }
+        ],
+        "title" : "Black Grouse"
+      },
+      {
+        "image" : "Grouse_img2",
+        "items" : [
+          {
+            "duration" : "0:22",
+            "file" : "Grouse_duskygrouse1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Grouse_duskygrouse2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Grouse_duskygrouse3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Grouse_duskygrouse4.aac",
+            "name" : "Call 4"
+          }
+        ],
+        "title" : "Dusky Grouse"
+      },
+      {
+        "image" : "Grouse_img3",
+        "items" : [
+          {
+            "duration" : "0:02",
+            "file" : "Grouse_greatersagegrouse1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Grouse_greatersagegrouse2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Grouse_greatersagegrouse3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Grouse_greatersagegrouse4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Grouse_greatersagegrouse5.aac",
+            "name" : "Call 5"
+          }
+        ],
+        "title" : "Greater Sage Grouse"
+      },
+      {
+        "image" : "Grouse_img4",
+        "items" : [
+          {
+            "duration" : "0:21",
+            "file" : "Grouse_ruffedgrouse1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:22",
+            "file" : "Grouse_ruffedgrouse2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:30",
+            "file" : "Grouse_ruffedgrouse3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Grouse_ruffedgrouse4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Grouse_ruffedgrouse5.aac",
+            "name" : "Call 5"
+          }
+        ],
+        "title" : "Ruffed Grouse"
+      },
+      {
+        "image" : "Grouse_img5",
+        "items" : [
+          {
+            "duration" : "0:28",
+            "file" : "Grouse_sootygrouse1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:19",
+            "file" : "Grouse_sootygrouse2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Grouse_sootygrouse3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Grouse_sootygrouse4.aac",
+            "name" : "Call 4"
+          }
+        ],
+        "title" : "Sooty Grouse"
+      },
+      {
+        "image" : "Grouse_img6",
+        "items" : [
+          {
+            "duration" : "0:13",
+            "file" : "Grouse_sprucegrouse1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Grouse_sprucegrouse2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Grouse_sprucegrouse3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Grouse_sprucegrouse4.aac",
+            "name" : "Call 4"
+          }
+        ],
+        "title" : "Spruce Grouse"
+      }
+    ]
+  },
+  {
+    "name" : "Hog, Pig & Boar",
+    "prefix" : "HogPigBoar",
+    "subcategories" : [
+      {
+        "image" : "HogPigBoar_img1",
+        "items" : [
+          {
+            "duration" : "0:23",
+            "file" : "HogPigBoar_distress1.aac",
+            "name" : "Distress 1"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "HogPigBoar_distress2.aac",
+            "name" : "Distress 2"
+          },
+          {
+            "duration" : "0:35",
+            "file" : "HogPigBoar_feeding1.aac",
+            "name" : "Feeding 1"
+          },
+          {
+            "duration" : "0:35",
+            "file" : "HogPigBoar_feeding2.aac",
+            "name" : "Feeding 2"
+          },
+          {
+            "duration" : "0:42",
+            "file" : "HogPigBoar_grunt.aac",
+            "name" : "Grunt"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "HogPigBoar_gruntsniff1.aac",
+            "name" : "Grunt & Sniff 1"
+          },
+          {
+            "duration" : "0:24",
+            "file" : "HogPigBoar_gruntsniff2.aac",
+            "name" : "Grunt & Sniff 2"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "HogPigBoar_gruntsqueal.aac",
+            "name" : "Grunt & Squeal"
+          },
+          {
+            "duration" : "0:19",
+            "file" : "HogPigBoar_snortsqueal.aac",
+            "name" : "Snort & Squeal"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "HogPigBoar_snort1.aac",
+            "name" : "Snort 1"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "HogPigBoar_snort2.aac",
+            "name" : "Snort 2"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "HogPigBoar_snort3.aac",
+            "name" : "Snort 3"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "HogPigBoar_softgroans.aac",
+            "name" : "Soft Groans"
+          },
+          {
+            "duration" : "0:41",
+            "file" : "HogPigBoar_squeal1.aac",
+            "name" : "Squeal 1"
+          },
+          {
+            "duration" : "0:32",
+            "file" : "HogPigBoar_squeal2.aac",
+            "name" : "Squeal 2"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "HogPigBoar_squeal3.aac",
+            "name" : "Squeal 3"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "HogPigBoar_squeal4.aac",
+            "name" : "Squeal 4"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "HogPigBoar_boargrowl.aac",
+            "name" : "Boar Growl"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "HogPigBoar_boargrunt.aac",
+            "name" : "Boar Grunt"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "HogPigBoar_boarsnort1.aac",
+            "name" : "Boar Snort 1"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "HogPigBoar_boarsnort2.aac",
+            "name" : "Boar Snort 2"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "HogPigBoar_boarsnort3.aac",
+            "name" : "Boar Snort 3"
+          },
+          {
+            "duration" : "0:28",
+            "file" : "HogPigBoar_pigletdistress1.aac",
+            "name" : "Piglet Distress 1"
+          },
+          {
+            "duration" : "0:29",
+            "file" : "HogPigBoar_pigletdistress2.aac",
+            "name" : "Piglet Distress 2"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "HogPigBoar_pigletsnort1.aac",
+            "name" : "Piglet Snort 1"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "HogPigBoar_pigletsnort2.aac",
+            "name" : "Piglet Snort 2"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "HogPigBoar_pigletsqueal1.aac",
+            "name" : "Piglet Squeal 1"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "HogPigBoar_pigletsqueal2.aac",
+            "name" : "Piglet Squeal 2"
+          }
+        ],
+        "title" : "Hog, Pig & Boar"
+      }
+    ]
+  },
+  {
+    "name" : "Lion",
+    "prefix" : "Lion",
+    "subcategories" : [
+      {
+        "image" : "Lion_img1",
+        "items" : [
+          {
+            "duration" : "0:04",
+            "file" : "Lion_attack.aac",
+            "name" : "Attack"
+          },
+          {
+            "duration" : "0:25",
+            "file" : "Lion_fight1.aac",
+            "name" : "Fight 1"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Lion_fight2.aac",
+            "name" : "Fight 2"
+          },
+          {
+            "duration" : "0:33",
+            "file" : "Lion_fussplay.aac",
+            "name" : "Fuss Play"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Lion_gargle.aac",
+            "name" : "Gargle"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Lion_groupmoan1.aac",
+            "name" : "Group Moan 1"
+          },
+          {
+            "duration" : "0:28",
+            "file" : "Lion_groupmoan2.aac",
+            "name" : "Group Moan 2"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Lion_groupmoan3.aac",
+            "name" : "Group Moan 3"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Lion_growl1.aac",
+            "name" : "Growl 1"
+          },
+          {
+            "duration" : "0:25",
+            "file" : "Lion_growl2.aac",
+            "name" : "Growl 2"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Lion_growl3.aac",
+            "name" : "Growl 3"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Lion_growl4.aac",
+            "name" : "Growl 4"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Lion_hiss1.aac",
+            "name" : "Hiss 1"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Lion_hiss2.aac",
+            "name" : "Hiss 2"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Lion_howl.aac",
+            "name" : "Howl"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Lion_mating1.aac",
+            "name" : "Mating 1"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Lion_mating2.aac",
+            "name" : "Mating 2"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Lion_moan1.aac",
+            "name" : "Moan 1"
+          },
+          {
+            "duration" : "0:22",
+            "file" : "Lion_moan2.aac",
+            "name" : "Moan 2"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Lion_purr.aac",
+            "name" : "Purr"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "Lion_roar1.aac",
+            "name" : "Roar 1"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Lion_roar2.aac",
+            "name" : "Roar 2"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Lion_roar3.aac",
+            "name" : "Roar 3"
+          },
+          {
+            "duration" : "0:36",
+            "file" : "Lion_snarl1.aac",
+            "name" : "Snarl 1"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Lion_snarl2.aac",
+            "name" : "Snarl 2"
+          }
+        ],
+        "title" : "Lion"
+      }
+    ]
+  },
+  {
+    "name" : "Lynx",
+    "prefix" : "Lynx",
+    "subcategories" : [
+      {
+        "image" : "Lynx_img1",
+        "items" : [
+          {
+            "duration" : "0:07",
+            "file" : "Lynx_growl1.aac",
+            "name" : "Growl 1"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "Lynx_growl2.aac",
+            "name" : "Growl 2"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Lynx_growl3.aac",
+            "name" : "Growl 3"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Lynx_growl4.aac",
+            "name" : "Growl 4"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Lynx_growl5.aac",
+            "name" : "Growl 5"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Lynx_growl6.aac",
+            "name" : "Growl 6"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "Lynx_hiss1.aac",
+            "name" : "Hiss 1"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "Lynx_hiss2.aac",
+            "name" : "Hiss 2"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Lynx_purr.aac",
+            "name" : "Purr"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Lynx_snarl1.aac",
+            "name" : "Snarl 1"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Lynx_snarl2.aac",
+            "name" : "Snarl 2"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Lynx_snarl3.aac",
+            "name" : "Snarl 3"
+          }
+        ],
+        "title" : "Lynx"
+      }
+    ]
+  },
+  {
+    "name" : "Moose",
+    "prefix" : "Moose",
+    "subcategories" : [
+      {
+        "image" : "Moose_img1",
+        "items" : [
+          {
+            "duration" : "0:27",
+            "file" : "Moose_bullcallmoan1.aac",
+            "name" : "Bull Call Moan 1"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Moose_bullcallmoan2.aac",
+            "name" : "Bull Call Moan 2"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Moose_bullchallenge.aac",
+            "name" : "Bull Challenge"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Moose_bullgrunt1.aac",
+            "name" : "Bull Grunt 1"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Moose_bullgrunt2.aac",
+            "name" : "Bull Grunt 2"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Moose_bullgrunt3.aac",
+            "name" : "Bull Grunt 3"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "Moose_bullgrunt4.aac",
+            "name" : "Bull Grunt 4"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Moose_bullinlove1.aac",
+            "name" : "Bull In Love 1"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "Moose_bullinlove2.aac",
+            "name" : "Bull In Love 2"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Moose_bullinlove3.aac",
+            "name" : "Bull In Love 3"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Moose_bullmatingcall1.aac",
+            "name" : "Bull Mating Call 1"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Moose_bullmatingcall2.aac",
+            "name" : "Bull Mating Call 2"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Moose_bullrakingbush.aac",
+            "name" : "Bull Raking Bush"
+          },
+          {
+            "duration" : "0:31",
+            "file" : "Moose_bullrakingtree.aac",
+            "name" : "Bull Raking Tree"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Moose_bullterritorial1.aac",
+            "name" : "Bull Territorial 1"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Moose_bullterritorial2.aac",
+            "name" : "Bull Territorial 2"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Moose_bullterritorial3.aac",
+            "name" : "Bull Territorial 3"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Moose_bullwantstofight.aac",
+            "name" : "Bull Wants To Fight"
+          },
+          {
+            "duration" : "1:03",
+            "file" : "Moose_bullsfighting.aac",
+            "name" : "Bulls Fighting"
+          },
+          {
+            "duration" : "1:11",
+            "file" : "Moose_calfdistress1.aac",
+            "name" : "Calf Distress 1"
+          },
+          {
+            "duration" : "0:44",
+            "file" : "Moose_calfdistress2.aac",
+            "name" : "Calf Distress 2"
+          },
+          {
+            "duration" : "0:38",
+            "file" : "Moose_cowdistress.aac",
+            "name" : "Cow Distress"
+          },
+          {
+            "duration" : "0:49",
+            "file" : "Moose_cowharrassedbybull.aac",
+            "name" : "Cow Harrassed by Bull"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Moose_cowheat1.aac",
+            "name" : "Cow Heat 1"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "Moose_cowheat2.aac",
+            "name" : "Cow Heat 2"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Moose_cowheat3.aac",
+            "name" : "Cow Heat 3"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Moose_cowheat4.aac",
+            "name" : "Cow Heat 4"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Moose_cowheat5.aac",
+            "name" : "Cow Heat 5"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "Moose_cowheat6.aac",
+            "name" : "Cow Heat 6"
+          }
+        ],
+        "title" : "Moose"
+      }
+    ]
+  },
+  {
+    "name" : "Nutria & Otter",
+    "prefix" : "NutriaOtter",
+    "subcategories" : [
+      {
+        "image" : "NutriaOtter_img1",
+        "items" : [
+          {
+            "duration" : "0:01",
+            "file" : "NutriaOtter_nutriacall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "NutriaOtter_nutriacall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "NutriaOtter_nutriacall3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "NutriaOtter_nutriacall4.aac",
+            "name" : "Call 4"
+          }
+        ],
+        "title" : "Nutria"
+      },
+      {
+        "image" : "NutriaOtter_img2",
+        "items" : [
+          {
+            "duration" : "0:11",
+            "file" : "NutriaOtter_otterdistress.aac",
+            "name" : "Distress"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "NutriaOtter_ottersnarl1.aac",
+            "name" : "Snarl 1"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "NutriaOtter_ottersnarl2.aac",
+            "name" : "Snarl 2"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "NutriaOtter_otterwhistlecall.aac",
+            "name" : "Whistle Call"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "NutriaOtter_otterwhistlescream.aac",
+            "name" : "Whistle Scream"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "NutriaOtter_otterwhistleshort.aac",
+            "name" : "Whistle Short"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "NutriaOtter_otterwhistlesnarl.aac",
+            "name" : "Whistle Snarl"
+          }
+        ],
+        "title" : "Otter"
+      }
+    ]
+  },
+  {
+    "name" : "Partridge",
+    "prefix" : "Partridge",
+    "subcategories" : [
+      {
+        "image" : "Partridge_img1",
+        "items" : [
+          {
+            "duration" : "0:09",
+            "file" : "Partridge_call1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Partridge_call2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Partridge_call3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Partridge_call4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Partridge_call5.aac",
+            "name" : "Call 5"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Partridge_call6.aac",
+            "name" : "Call 6"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Partridge_call7.aac",
+            "name" : "Call 7"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Partridge_call8.aac",
+            "name" : "Call 8"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Partridge_call9.aac",
+            "name" : "Call 9"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Partridge_call10.aac",
+            "name" : "Call 10"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Partridge_shriek.aac",
+            "name" : "Shriek"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Partridge_whistle1.aac",
+            "name" : "Whistle 1"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Partridge_whistle2.aac",
+            "name" : "Whistle 2"
+          }
+        ],
+        "title" : "Partridge"
+      }
+    ]
+  },
+  {
+    "name" : "Pheasant",
+    "prefix" : "Pheasant",
+    "subcategories" : [
+      {
+        "image" : "Pheasant_img1",
+        "items" : [
+          {
+            "duration" : "0:03",
+            "file" : "Pheasant_cackle1.aac",
+            "name" : "Cackle 1"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "Pheasant_cackle2.aac",
+            "name" : "Cackle 2"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Pheasant_call1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:22",
+            "file" : "Pheasant_call2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "Pheasant_call3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Pheasant_call4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Pheasant_call5.aac",
+            "name" : "Call 5"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Pheasant_call6.aac",
+            "name" : "Call 6"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "Pheasant_chirp1.aac",
+            "name" : "Chirp 1"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "Pheasant_chirp2.aac",
+            "name" : "Chirp 2"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Pheasant_creakflush.aac",
+            "name" : "Creak Flush"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Pheasant_flush.aac",
+            "name" : "Flush"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Pheasant_screech.aac",
+            "name" : "Screech"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Pheasant_song1.aac",
+            "name" : "Song 1"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Pheasant_song2.aac",
+            "name" : "Song 2"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Pheasant_squawkflush.aac",
+            "name" : "Squawk Flush"
+          }
+        ],
+        "title" : "Pheasant"
+      }
+    ]
+  },
+  {
+    "name" : "Prairie Chicken",
+    "prefix" : "PrairieChicken",
+    "subcategories" : [
+      {
+        "image" : "PrairieChicken_img1",
+        "items" : [
+          {
+            "duration" : "0:27",
+            "file" : "PrairieChicken_greaterprairiechicken1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "PrairieChicken_greaterprairiechicken2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:23",
+            "file" : "PrairieChicken_greaterprairiechicken3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "PrairieChicken_greaterprairiechicken4.aac",
+            "name" : "Call 4"
+          }
+        ],
+        "title" : "Greater Prairie Chicken"
+      },
+      {
+        "image" : "PrairieChicken_img2",
+        "items" : [
+          {
+            "duration" : "0:07",
+            "file" : "PrairieChicken_lesserprairiechicken1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "PrairieChicken_lesserprairiechicken2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:23",
+            "file" : "PrairieChicken_lesserprairiechicken3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:25",
+            "file" : "PrairieChicken_lesserprairiechicken4.aac",
+            "name" : "Call 4"
+          }
+        ],
+        "title" : "Lesser Prairie Chicken"
+      }
+    ]
+  },
+  {
+    "name" : "Prairie Dog",
+    "prefix" : "PrairieDog",
+    "subcategories" : [
+      {
+        "image" : "PrairieDog_img1",
+        "items" : [
+          {
+            "duration" : "0:18",
+            "file" : "PrairieDog_call1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "PrairieDog_call2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "PrairieDog_call3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "PrairieDog_call4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "PrairieDog_call5.aac",
+            "name" : "Call 5"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "PrairieDog_call6.aac",
+            "name" : "Call 6"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "PrairieDog_call7.aac",
+            "name" : "Call 7"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "PrairieDog_call8.aac",
+            "name" : "Call 8"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "PrairieDog_call9.aac",
+            "name" : "Call 9"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "PrairieDog_call10.aac",
+            "name" : "Call 10"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "PrairieDog_call11.aac",
+            "name" : "Call 11"
+          }
+        ],
+        "title" : "Prairie Dog"
+      }
+    ]
+  },
+  {
+    "name" : "Ptarmigan",
+    "prefix" : "Ptarmigan",
+    "subcategories" : [
+      {
+        "image" : "Ptarmigan_img1",
+        "items" : [
+          {
+            "duration" : "0:20",
+            "file" : "Ptarmigan_rockptarmigancall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Ptarmigan_rockptarmigancall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Ptarmigan_rockptarmigancall3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Ptarmigan_rockptarmigancall4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Ptarmigan_rockptarmigancall5.aac",
+            "name" : "Call 5"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Ptarmigan_rockptarmigandisplay.aac",
+            "name" : "Display"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Ptarmigan_rockptarmiganjuvenilecalls.aac",
+            "name" : "Juvenile calls"
+          }
+        ],
+        "title" : "Rock Ptarmigan"
+      },
+      {
+        "image" : "Ptarmigan_img2",
+        "items" : [
+          {
+            "duration" : "0:19",
+            "file" : "Ptarmigan_whitetailedptarmigancall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Ptarmigan_whitetailedptarmigancall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Ptarmigan_whitetailedptarmigancall3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Ptarmigan_whitetailedptarmigancall4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Ptarmigan_whitetailedptarmigancall5.aac",
+            "name" : "Call 5"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "Ptarmigan_whitetailedptarmigancall6.aac",
+            "name" : "Call 6"
+          },
+          {
+            "duration" : "0:22",
+            "file" : "Ptarmigan_whitetailedptarmigansong.aac",
+            "name" : "Song"
+          }
+        ],
+        "title" : "White-tailed Ptarmigan"
+      },
+      {
+        "image" : "Ptarmigan_img3",
+        "items" : [
+          {
+            "duration" : "0:12",
+            "file" : "Ptarmigan_willowptarmigancall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Ptarmigan_willowptarmigancall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Ptarmigan_willowptarmigancall3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Ptarmigan_willowptarmigancall4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Ptarmigan_willowptarmigancall5.aac",
+            "name" : "Call 5"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Ptarmigan_willowptarmigancall6.aac",
+            "name" : "Call 6"
+          }
+        ],
+        "title" : "Willow Ptarmigan"
+      }
+    ]
+  },
+  {
+    "name" : "Quail",
+    "prefix" : "Quail",
+    "subcategories" : [
+      {
+        "image" : "Quail_img1",
+        "items" : [
+          {
+            "duration" : "0:22",
+            "file" : "Quail_bobwhitequailcall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Quail_bobwhitequailcall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Quail_bobwhitequailcall3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Quail_bobwhitequailcall4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:47",
+            "file" : "Quail_bobwhitequailcall5.aac",
+            "name" : "Call 5"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Quail_bobwhitequailsong1.aac",
+            "name" : "Song 1"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Quail_bobwhitequailsong2.aac",
+            "name" : "Song 2"
+          }
+        ],
+        "title" : "Bobwhite Quail"
+      },
+      {
+        "image" : "Quail_img2",
+        "items" : [
+          {
+            "duration" : "0:19",
+            "file" : "Quail_californiaquailcall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Quail_californiaquailcall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:29",
+            "file" : "Quail_californiaquailcall3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:35",
+            "file" : "Quail_californiaquailduet.aac",
+            "name" : "Duet"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Quail_californiaquailsong1.aac",
+            "name" : "Song 1"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Quail_californiaquailsong2.aac",
+            "name" : "Song 2"
+          }
+        ],
+        "title" : "California Quail (Valley Quail)"
+      },
+      {
+        "image" : "Quail_img3",
+        "items" : [
+          {
+            "duration" : "0:33",
+            "file" : "Quail_gambelsquailcall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Quail_gambelsquailcall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:25",
+            "file" : "Quail_gambelsquailcall3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:19",
+            "file" : "Quail_gambelsquailcall4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:30",
+            "file" : "Quail_gambelsquailsong1.aac",
+            "name" : "Song 1"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Quail_gambelsquailsong2.aac",
+            "name" : "Song 2"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Quail_gambelsquailsong3.aac",
+            "name" : "Song 3"
+          }
+        ],
+        "title" : "Gambel’s Quail"
+      },
+      {
+        "image" : "Quail_img4",
+        "items" : [
+          {
+            "duration" : "0:12",
+            "file" : "Quail_montezumaquailcall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:27",
+            "file" : "Quail_montezumaquailcall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Quail_montezumaquailsong.aac",
+            "name" : "Song"
+          }
+        ],
+        "title" : "Montezuma Quail (Mearns Quail)"
+      },
+      {
+        "image" : "Quail_img5",
+        "items" : [
+          {
+            "duration" : "0:15",
+            "file" : "Quail_mountainquailcall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:23",
+            "file" : "Quail_mountainquailcall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Quail_mountainquailcall3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:19",
+            "file" : "Quail_mountainquailcall4.aac",
+            "name" : "Call 4"
+          },
+          {
+            "duration" : "0:35",
+            "file" : "Quail_mountainquailchirp.aac",
+            "name" : "Chirp"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Quail_mountainquailsong1.aac",
+            "name" : "Song 1"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Quail_mountainquailsong2.aac",
+            "name" : "Song 2"
+          }
+        ],
+        "title" : "Mountain Quail"
+      },
+      {
+        "image" : "Quail_img6",
+        "items" : [
+          {
+            "duration" : "0:33",
+            "file" : "Quail_scaledquailcall1.aac",
+            "name" : "Call 1"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Quail_scaledquailcall2.aac",
+            "name" : "Call 2"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Quail_scaledquailcall3.aac",
+            "name" : "Call 3"
+          },
+          {
+            "duration" : "0:27",
+            "file" : "Quail_scaledquailsong.aac",
+            "name" : "Song"
+          }
+        ],
+        "title" : "Scaled Quail (Blue Quail)"
+      }
+    ]
+  },
+  {
+    "name" : "Rabbit & Hare",
+    "prefix" : "RabbitHare",
+    "subcategories" : [
+      {
+        "image" : "RabbitHare_img1",
+        "items" : [
+          {
+            "duration" : "0:34",
+            "file" : "RabbitHare_cottontaildistresscoyote.aac",
+            "name" : "Distress & Coyote"
+          },
+          {
+            "duration" : "0:59",
+            "file" : "RabbitHare_cottontaildistresscrows.aac",
+            "name" : "Distress & Crows"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "RabbitHare_cottontaildistressdeathcry.aac",
+            "name" : "Distress & Death Cry"
+          },
+          {
+            "duration" : "0:58",
+            "file" : "RabbitHare_cottontaildistress1.aac",
+            "name" : "Distress 1"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "RabbitHare_cottontaildistress2.aac",
+            "name" : "Distress 2"
+          },
+          {
+            "duration" : "0:25",
+            "file" : "RabbitHare_cottontaildistress3.aac",
+            "name" : "Distress 3"
+          },
+          {
+            "duration" : "0:34",
+            "file" : "RabbitHare_cottontaildistress4.aac",
+            "name" : "Distress 4"
+          },
+          {
+            "duration" : "0:29",
+            "file" : "RabbitHare_cottontaildistress5.aac",
+            "name" : "Distress 5"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "RabbitHare_cottontaildistressyoung.aac",
+            "name" : "Distress Young"
+          }
+        ],
+        "title" : "Cottontail"
+      },
+      {
+        "image" : "RabbitHare_img2",
+        "items" : [
+          {
+            "duration" : "0:23",
+            "file" : "RabbitHare_jackrabbitdistressdeathcry.aac",
+            "name" : "Distress & Death Cry"
+          },
+          {
+            "duration" : "0:27",
+            "file" : "RabbitHare_jackrabbitdistress1.aac",
+            "name" : "Distress 1"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "RabbitHare_jackrabbitdistress2.aac",
+            "name" : "Distress 2"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "RabbitHare_jackrabbitdistress3.aac",
+            "name" : "Distress 3"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "RabbitHare_jackrabbitdistress4.aac",
+            "name" : "Distress 4"
+          },
+          {
+            "duration" : "0:22",
+            "file" : "RabbitHare_jackrabbitdistressyoung.aac",
+            "name" : "Distress Young"
+          }
+        ],
+        "title" : "Jackrabbit"
+      },
+      {
+        "image" : "RabbitHare_img3",
+        "items" : [
+          {
+            "duration" : "0:32",
+            "file" : "RabbitHare_haredistress1.aac",
+            "name" : "Distress 1"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "RabbitHare_haredistress2.aac",
+            "name" : "Distress 2"
+          },
+          {
+            "duration" : "0:23",
+            "file" : "RabbitHare_haredistress3.aac",
+            "name" : "Distress 3"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "RabbitHare_harefight.aac",
+            "name" : "Fight"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "RabbitHare_harescream1.aac",
+            "name" : "Scream 1"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "RabbitHare_harescream2.aac",
+            "name" : "Scream 2"
+          }
+        ],
+        "title" : "Unspecified Hare"
+      },
+      {
+        "image" : "RabbitHare_img4",
+        "items" : [
+          {
+            "duration" : "0:30",
+            "file" : "RabbitHare_rabbitdistress1.aac",
+            "name" : "Distress 1"
+          },
+          {
+            "duration" : "0:30",
+            "file" : "RabbitHare_rabbitdistress2.aac",
+            "name" : "Distress 2"
+          },
+          {
+            "duration" : "0:22",
+            "file" : "RabbitHare_rabbitdistress3.aac",
+            "name" : "Distress 3"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "RabbitHare_rabbitsqueal1.aac",
+            "name" : "Squeal 1"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "RabbitHare_rabbitsqueal2.aac",
+            "name" : "Squeal 2"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "RabbitHare_raspyrabbit.aac",
+            "name" : "Raspy"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "RabbitHare_smallrabbitsqueak.aac",
+            "name" : "Small Squeak"
+          }
+        ],
+        "title" : "Unspecified Rabbit"
+      }
+    ]
+  },
+  {
+    "name" : "Raccoon",
+    "prefix" : "Raccoon",
+    "subcategories" : [
+      {
+        "image" : "Raccoon_img1",
+        "items" : [
+          {
+            "duration" : "0:02",
+            "file" : "Raccoon_chitter1.aac",
+            "name" : "Chitter 1"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Raccoon_chitter2.aac",
+            "name" : "Chitter 2"
+          },
+          {
+            "duration" : "0:26",
+            "file" : "Raccoon_chitter3.aac",
+            "name" : "Chitter 3"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Raccoon_chitter4.aac",
+            "name" : "Chitter 4"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Raccoon_cry.aac",
+            "name" : "Cry"
+          },
+          {
+            "duration" : "1:08",
+            "file" : "Raccoon_fightbird.aac",
+            "name" : "Fight Bird"
+          },
+          {
+            "duration" : "1:27",
+            "file" : "Raccoon_fightfox.aac",
+            "name" : "Fight Fox"
+          },
+          {
+            "duration" : "0:29",
+            "file" : "Raccoon_groupyells.aac",
+            "name" : "Group Yells"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Raccoon_pup.aac",
+            "name" : "Pup"
+          },
+          {
+            "duration" : "0:17",
+            "file" : "Raccoon_pupwhine.aac",
+            "name" : "Pup Whine"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Raccoon_pups1.aac",
+            "name" : "Pups 1"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Raccoon_pups2.aac",
+            "name" : "Pups 2"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Raccoon_snarl1.aac",
+            "name" : "Snarl 1"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Raccoon_snarl2.aac",
+            "name" : "Snarl 2"
+          },
+          {
+            "duration" : "0:27",
+            "file" : "Raccoon_squall1.aac",
+            "name" : "Squall 1"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Raccoon_squall2.aac",
+            "name" : "Squall 2"
+          },
+          {
+            "duration" : "0:27",
+            "file" : "Raccoon_squall3.aac",
+            "name" : "Squall 3"
+          }
+        ],
+        "title" : "Raccoon"
+      }
+    ]
+  },
+  {
+    "name" : "Sheep",
+    "prefix" : "Sheep",
+    "subcategories" : [
+      {
+        "image" : "Sheep_img1",
+        "items" : [
+          {
+            "duration" : "0:06",
+            "file" : "Sheep_bleat1.aac",
+            "name" : "Bleat 1"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Sheep_bleat2.aac",
+            "name" : "Bleat 2"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Sheep_bleat3.aac",
+            "name" : "Bleat 3"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Sheep_bleat4.aac",
+            "name" : "Bleat 4"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Sheep_bleat5.aac",
+            "name" : "Bleat 5"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Sheep_bleat6.aac",
+            "name" : "Bleat 6"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Sheep_bleat7.aac",
+            "name" : "Bleat 7"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Sheep_bleatewe.aac",
+            "name" : "Bleat Ewe"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Sheep_bleatherd1.aac",
+            "name" : "Bleat Herd 1"
+          },
+          {
+            "duration" : "0:54",
+            "file" : "Sheep_bleatherd2.aac",
+            "name" : "Bleat Herd 2"
+          },
+          {
+            "duration" : "0:27",
+            "file" : "Sheep_bleatherd3.aac",
+            "name" : "Bleat Herd 3"
+          },
+          {
+            "duration" : "0:36",
+            "file" : "Sheep_bleathigh.aac",
+            "name" : "Bleat High"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Sheep_bleatlow.aac",
+            "name" : "Bleat Low"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "Sheep_lamb1.aac",
+            "name" : "Lamb 1"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Sheep_lamb2.aac",
+            "name" : "Lamb 2"
+          },
+          {
+            "duration" : "1:00",
+            "file" : "Sheep_lamb3.aac",
+            "name" : "Lamb 3"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Sheep_lamb4.aac",
+            "name" : "Lamb 4"
+          },
+          {
+            "duration" : "0:50",
+            "file" : "Sheep_lamb5.aac",
+            "name" : "Lamb 5"
+          },
+          {
+            "duration" : "0:24",
+            "file" : "Sheep_lamb6.aac",
+            "name" : "Lamb 6"
+          }
+        ],
+        "title" : "Sheep"
+      }
+    ]
+  },
+  {
+    "name" : "Skunk",
+    "prefix" : "Skunk",
+    "subcategories" : [
+      {
+        "image" : "Skunk_img1",
+        "items" : [
+          {
+            "duration" : "0:01",
+            "file" : "Skunk_baby.aac",
+            "name" : "Baby"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Skunk_growl.aac",
+            "name" : "Growl"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Skunk_scream1.aac",
+            "name" : "Scream 1"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Skunk_scream2.aac",
+            "name" : "Scream 2"
+          }
+        ],
+        "title" : "Skunk"
+      }
+    ]
+  },
+  {
+    "name" : "Squirrel",
+    "prefix" : "Squirrel",
+    "subcategories" : [
+      {
+        "image" : "Squirrel_img1",
+        "items" : [
+          {
+            "duration" : "1:19",
+            "file" : "Squirrel_angry1.aac",
+            "name" : "Angry 1"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Squirrel_angry2.aac",
+            "name" : "Angry 2"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Squirrel_angry3.aac",
+            "name" : "Angry 3"
+          },
+          {
+            "duration" : "1:17",
+            "file" : "Squirrel_angry4.aac",
+            "name" : "Angry 4"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Squirrel_chatter1.aac",
+            "name" : "Chatter 1"
+          },
+          {
+            "duration" : "0:16",
+            "file" : "Squirrel_chatter2.aac",
+            "name" : "Chatter 2"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Squirrel_chatter3.aac",
+            "name" : "Chatter 3"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Squirrel_chatter4.aac",
+            "name" : "Chatter 4"
+          },
+          {
+            "duration" : "0:00",
+            "file" : "Squirrel_chatter5.aac",
+            "name" : "Chatter 5"
+          },
+          {
+            "duration" : "0:29",
+            "file" : "Squirrel_chirp1.aac",
+            "name" : "Chirp 1"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Squirrel_chirp2.aac",
+            "name" : "Chirp 2"
+          },
+          {
+            "duration" : "0:22",
+            "file" : "Squirrel_chirp3.aac",
+            "name" : "Chirp 3"
+          },
+          {
+            "duration" : "0:48",
+            "file" : "Squirrel_chirp4.aac",
+            "name" : "Chirp 4"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Squirrel_chirp5.aac",
+            "name" : "Chirp 5"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Squirrel_eating.aac",
+            "name" : "Eating"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Squirrel_scream1.aac",
+            "name" : "Scream 1"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Squirrel_scream2.aac",
+            "name" : "Scream 2"
+          }
+        ],
+        "title" : "Squirrel"
+      }
+    ]
+  },
+  {
+    "name" : "Turkey",
+    "prefix" : "Turkey",
+    "subcategories" : [
+      {
+        "image" : "Turkey_img1",
+        "items" : [
+          {
+            "duration" : "0:09",
+            "file" : "Turkey_cackle1.aac",
+            "name" : "Cackle 1"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Turkey_cackle2.aac",
+            "name" : "Cackle 2"
+          },
+          {
+            "duration" : "0:10",
+            "file" : "Turkey_cackle3.aac",
+            "name" : "Cackle 3"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Turkey_cackle4.aac",
+            "name" : "Cackle 4"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Turkey_cackle5.aac",
+            "name" : "Cackle 5"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Turkey_cackle6.aac",
+            "name" : "Cackle 6"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Turkey_chickdistress.aac",
+            "name" : "Chick Distress"
+          },
+          {
+            "duration" : "0:27",
+            "file" : "Turkey_chicks.aac",
+            "name" : "Chicks"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Turkey_cluck1.aac",
+            "name" : "Cluck 1"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Turkey_cluck2.aac",
+            "name" : "Cluck 2"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Turkey_cutt1.aac",
+            "name" : "Cutt 1"
+          },
+          {
+            "duration" : "0:12",
+            "file" : "Turkey_cutt2.aac",
+            "name" : "Cutt 2"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Turkey_fightingpurr.aac",
+            "name" : "Fighting Purr"
+          },
+          {
+            "duration" : "0:01",
+            "file" : "Turkey_gobble1.aac",
+            "name" : "Gobble 1"
+          },
+          {
+            "duration" : "0:36",
+            "file" : "Turkey_gobble2.aac",
+            "name" : "Gobble 2"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Turkey_gobble3.aac",
+            "name" : "Gobble 3"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Turkey_hen.aac",
+            "name" : "Hen"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Turkey_henyelp1.aac",
+            "name" : "Hen Yelp 1"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Turkey_henyelp2.aac",
+            "name" : "Hen Yelp 2"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Turkey_keekee1.aac",
+            "name" : "Kee Kee 1"
+          },
+          {
+            "duration" : "0:07",
+            "file" : "Turkey_keekee2.aac",
+            "name" : "Kee Kee 2"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Turkey_lostyelp.aac",
+            "name" : "Lost Yelp"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Turkey_purr1.aac",
+            "name" : "Purr 1"
+          },
+          {
+            "duration" : "0:04",
+            "file" : "Turkey_purr2.aac",
+            "name" : "Purr 2"
+          },
+          {
+            "duration" : "0:06",
+            "file" : "Turkey_squawk.aac",
+            "name" : "Squawk"
+          },
+          {
+            "duration" : "0:05",
+            "file" : "Turkey_whine.aac",
+            "name" : "Whine"
+          },
+          {
+            "duration" : "0:03",
+            "file" : "Turkey_yelp1.aac",
+            "name" : "Yelp 1"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Turkey_yelp2.aac",
+            "name" : "Yelp 2"
+          }
+        ],
+        "title" : "Turkey"
+      }
+    ]
+  },
+  {
+    "name" : "Wolf",
+    "prefix" : "Wolf",
+    "subcategories" : [
+      {
+        "image" : "Wolf_img1",
+        "items" : [
+          {
+            "duration" : "0:38",
+            "file" : "Wolf_bark.aac",
+            "name" : "Bark"
+          },
+          {
+            "duration" : "1:06",
+            "file" : "Wolf_growl1.aac",
+            "name" : "Growl 1"
+          },
+          {
+            "duration" : "0:08",
+            "file" : "Wolf_growl2.aac",
+            "name" : "Growl 2"
+          },
+          {
+            "duration" : "0:30",
+            "file" : "Wolf_growl3.aac",
+            "name" : "Growl 3"
+          },
+          {
+            "duration" : "0:30",
+            "file" : "Wolf_growlbark1.aac",
+            "name" : "Growl Bark 1"
+          },
+          {
+            "duration" : "0:48",
+            "file" : "Wolf_growlbark2.aac",
+            "name" : "Growl Bark 2"
+          },
+          {
+            "duration" : "0:29",
+            "file" : "Wolf_growlbark3.aac",
+            "name" : "Growl Bark 3"
+          },
+          {
+            "duration" : "0:53",
+            "file" : "Wolf_growlbark4.aac",
+            "name" : "Growl Bark 4"
+          },
+          {
+            "duration" : "0:45",
+            "file" : "Wolf_growlsnarl1.aac",
+            "name" : "Growl Snarl 1"
+          },
+          {
+            "duration" : "0:13",
+            "file" : "Wolf_growlsnarl2.aac",
+            "name" : "Growl Snarl 2"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Wolf_growlsnarl3.aac",
+            "name" : "Growl Snarl 3"
+          },
+          {
+            "duration" : "0:02",
+            "file" : "Wolf_growlwhimper.aac",
+            "name" : "Growl Whimper"
+          },
+          {
+            "duration" : "0:22",
+            "file" : "Wolf_howl1.aac",
+            "name" : "Howl 1"
+          },
+          {
+            "duration" : "0:20",
+            "file" : "Wolf_howl2.aac",
+            "name" : "Howl 2"
+          },
+          {
+            "duration" : "0:22",
+            "file" : "Wolf_howl3.aac",
+            "name" : "Howl 3"
+          },
+          {
+            "duration" : "0:30",
+            "file" : "Wolf_howl4.aac",
+            "name" : "Howl 4"
+          },
+          {
+            "duration" : "0:21",
+            "file" : "Wolf_howl5.aac",
+            "name" : "Howl 5"
+          },
+          {
+            "duration" : "0:27",
+            "file" : "Wolf_howl6.aac",
+            "name" : "Howl 6"
+          },
+          {
+            "duration" : "0:25",
+            "file" : "Wolf_howlbark.aac",
+            "name" : "Howl Bark"
+          },
+          {
+            "duration" : "0:29",
+            "file" : "Wolf_howlpup.aac",
+            "name" : "Howl Pup"
+          },
+          {
+            "duration" : "0:35",
+            "file" : "Wolf_howlwhine1.aac",
+            "name" : "Howl Whine 1"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Wolf_howlwhine2.aac",
+            "name" : "Howl Whine 2"
+          },
+          {
+            "duration" : "0:09",
+            "file" : "Wolf_howlwhine3.aac",
+            "name" : "Howl Whine 3"
+          },
+          {
+            "duration" : "1:06",
+            "file" : "Wolf_howlwhine4.aac",
+            "name" : "Howl Whine 4"
+          },
+          {
+            "duration" : "0:30",
+            "file" : "Wolf_howlwhine5.aac",
+            "name" : "Howl Whine 5"
+          },
+          {
+            "duration" : "0:35",
+            "file" : "Wolf_snarl1.aac",
+            "name" : "Snarl 1"
+          },
+          {
+            "duration" : "0:22",
+            "file" : "Wolf_snarl2.aac",
+            "name" : "Snarl 2"
+          },
+          {
+            "duration" : "0:32",
+            "file" : "Wolf_snort.aac",
+            "name" : "Snort"
+          },
+          {
+            "duration" : "0:18",
+            "file" : "Wolf_whine1.aac",
+            "name" : "Whine 1"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Wolf_whine2.aac",
+            "name" : "Whine 2"
+          },
+          {
+            "duration" : "0:15",
+            "file" : "Wolf_yappingbark.aac",
+            "name" : "Yapping Bark"
+          },
+          {
+            "duration" : "0:41",
+            "file" : "Wolf_yappingwhine.aac",
+            "name" : "Yapping Whine"
+          }
+        ],
+        "title" : "Wolf"
+      }
+    ]
+  },
+  {
+    "name" : "Woodcock",
+    "prefix" : "Woodcock",
+    "subcategories" : [
+      {
+        "image" : "Woodcock_img1",
+        "items" : [
+          {
+            "duration" : "0:05",
+            "file" : "Woodcock_calls.aac",
+            "name" : "Calls"
+          },
+          {
+            "duration" : "0:58",
+            "file" : "Woodcock_display.aac",
+            "name" : "Display"
+          },
+          {
+            "duration" : "0:14",
+            "file" : "Woodcock_song1.aac",
+            "name" : "Song 1"
+          },
+          {
+            "duration" : "0:27",
+            "file" : "Woodcock_song2.aac",
+            "name" : "Song 2"
+          },
+          {
+            "duration" : "0:29",
+            "file" : "Woodcock_song3.aac",
+            "name" : "Song 3"
+          },
+          {
+            "duration" : "0:11",
+            "file" : "Woodcock_song4.aac",
+            "name" : "Song 4"
+          }
+        ],
+        "title" : "Woodcock"
+      }
+    ]
+  }
+]

@@ -42,6 +42,8 @@ data class PurchaseHelper(val activity: Activity) {
     private val queriedPlans = plans
 
     private val productDetailsById = mutableMapOf<String, ProductDetails>()
+    private val productQueryLock = Any()
+    private var productQueryGeneration = 0
     private val localUnlockKey = "unlock_state_full_access"
     private var inAppEntitlement = false
     private var subscriptionEntitlement = false
@@ -105,30 +107,58 @@ data class PurchaseHelper(val activity: Activity) {
     fun queryProducts() {
         if (!::billingClient.isInitialized || !billingClient.isReady) return
 
-        val queryProductDetailsParams = QueryProductDetailsParams.newBuilder()
-            .setProductList(
-                queriedPlans.map { plan ->
-                    QueryProductDetailsParams.Product.newBuilder()
-                        .setProductId(plan.id)
-                        .setProductType(plan.productType)
-                        .build()
-                }
-            )
-            .build()
+        val plansByType = queriedPlans.groupBy(StorePlan::productType)
+        val loadedProducts = mutableMapOf<String, ProductDetails>()
+        var pendingQueries = plansByType.size
+        var queryFailed = false
+        val generation = synchronized(productQueryLock) {
+            productQueryGeneration += 1
+            productQueryGeneration
+        }
 
-        billingClient.queryProductDetailsAsync(queryProductDetailsParams) { billingResult, productDetailsList ->
-            if (billingResult.responseCode == BillingClient.BillingResponseCode.OK && productDetailsList.isNotEmpty()) {
-                productDetailsById.clear()
-                productDetailsList.forEach { productDetailsById[it.productId] = it }
-                val prices = productDetailsList.associate { it.productId to it.formattedPrice() }
-                _productPrices.value = prices
-                _productName.value = prices["com.huntingcalls.yearly"] ?: prices.values.firstOrNull().orEmpty()
-                if (!_consumeEnabled.value) {
-                    _buyEnabled.value = true
+        _statusText.value = "Loading Products"
+        _buyEnabled.value = false
+
+        plansByType.forEach { (_, plansOfType) ->
+            val queryProductDetailsParams = QueryProductDetailsParams.newBuilder()
+                .setProductList(
+                    plansOfType.map { plan ->
+                        QueryProductDetailsParams.Product.newBuilder()
+                            .setProductId(plan.id)
+                            .setProductType(plan.productType)
+                            .build()
+                    }
+                )
+                .build()
+
+            billingClient.queryProductDetailsAsync(queryProductDetailsParams) { billingResult, productDetailsList ->
+                synchronized(productQueryLock) {
+                    if (generation != productQueryGeneration) return@queryProductDetailsAsync
+
+                    if (billingResult.responseCode == BillingClient.BillingResponseCode.OK) {
+                        productDetailsList.forEach { loadedProducts[it.productId] = it }
+                    } else {
+                        queryFailed = true
+                    }
+
+                    pendingQueries -= 1
+                    if (pendingQueries == 0) {
+                        productDetailsById.clear()
+                        productDetailsById.putAll(loadedProducts)
+
+                        val prices = loadedProducts.values.associate { it.productId to it.formattedPrice() }
+                        _productPrices.value = prices
+                        _productName.value = prices["com.huntingcalls.yearly"]
+                            ?: prices.values.firstOrNull().orEmpty()
+                        val allProductsLoaded = !queryFailed && loadedProducts.size == queriedPlans.size
+                        _buyEnabled.value = !_consumeEnabled.value && allProductsLoaded
+                        _statusText.value = if (allProductsLoaded) {
+                            "Products Loaded"
+                        } else {
+                            "No Matching Products Found"
+                        }
+                    }
                 }
-            } else {
-                _statusText.value = "No Matching Products Found"
-                _buyEnabled.value = false
             }
         }
     }

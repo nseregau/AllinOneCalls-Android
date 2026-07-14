@@ -15,8 +15,8 @@ android {
         applicationId = "com.huntingcalls"
         minSdk = 24
         targetSdk = 36
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 2
+        versionName = "1.0.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -51,6 +51,7 @@ dependencies {
     implementation(libs.androidx.compose.material.icons.extended)
     implementation(libs.billing)
     implementation(libs.billing.ktx)
+    implementation(libs.androidx.fragment)
     implementation(libs.play.review)
     implementation(libs.guava)
     testImplementation(libs.junit)
